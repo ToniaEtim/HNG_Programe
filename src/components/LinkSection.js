@@ -30,7 +30,7 @@ const linkData = [
   {
     link: "https://background.zuri.team",
     id: "pitch",
-    label: "This is one place there is background checks on coders",
+    label: "This is one place where there is background checks on coders",
     title: "",
   },
   {
@@ -42,7 +42,7 @@ const linkData = [
 ];
 
 const LinkSection = () => {
-  const [data, setData] = useState(linkData);
+  const [data] = useState(linkData);
 
   return (
     <section id="link_section">
