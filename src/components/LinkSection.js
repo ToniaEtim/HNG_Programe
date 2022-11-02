@@ -30,8 +30,8 @@ const linkData = [
   {
     link: "https://background.zuri.team",
     id: "pitch",
-    label: "This is one place where there is background checks on coders",
-    title: "",
+    label: "Background Checks for Coders",
+    title: "This is one place where there is background checks on coders",
   },
   {
     link: "https://books.zuri.team/design-rules",
